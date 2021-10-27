@@ -55,7 +55,7 @@ Bonjour, je m'appelle Olivier Vic. Passionné d'informatique, je suis actuelleme
 <br>
 <br>
 
-### Tools
+### Outils
 
 <img align="left" alt="QT" width="60px" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" />
 <img align="left" alt="Visual Studio" width="60px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
