@@ -12,6 +12,7 @@ Hello, my name is Olivier Vic. Computer enthusiast, I am currently in PRE-MSC PR
 <img align="left" alt="Python" width="23px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="C" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
 <img align="left" alt="HTML" width="23px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+<img align="left" alt="PHP" width="23px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
 <img align="left" alt="CSS" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="GitHub" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 <img align="left" alt="Git" width="23px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
@@ -27,7 +28,6 @@ Hello, my name is Olivier Vic. Computer enthusiast, I am currently in PRE-MSC PR
 <img align="left" alt="Visual Studio" width="60px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
 <img align="left" alt="VirtualBox" width="60px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" />
 <img align="left" alt="Atom" width="60px" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" />
-<img align="left" alt="VirtualBox" width="60px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" />
 <br>
 <br>
 
@@ -45,6 +45,7 @@ Bonjour, je m'appelle Olivier Vic. Passionné d'informatique, je suis actuelleme
 <img align="left" alt="Python" width="23px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
 <img align="left" alt="C" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/c.svg" />
 <img align="left" alt="HTML" width="23px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />
+<img align="left" alt="PHP" width="23px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
 <img align="left" alt="CSS" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg" />
 <img align="left" alt="GitHub" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/github.svg" />
 <img align="left" alt="Git" width="23px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
@@ -60,4 +61,3 @@ Bonjour, je m'appelle Olivier Vic. Passionné d'informatique, je suis actuelleme
 <img align="left" alt="Visual Studio" width="60px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
 <img align="left" alt="VirtualBox" width="60px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" />
 <img align="left" alt="Atom" width="60px" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" />
-<img align="left" alt="VirtualBox" width="60px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" />
