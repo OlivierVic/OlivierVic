@@ -21,6 +21,13 @@ Hello, my name is Olivier Vic. Computer enthusiast, I am currently in PRE-MSC PR
 <br>
 <br>
 
+### Tools
+
+<img align="left" alt="QT" width="23px" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" />
+<img align="left" alt="Visual Studio" width="23px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
+<img align="left" alt="VirtualBox" width="23px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" />
+<img align="left" alt="Atom" width="23px" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" />
+<img align="left" alt="VirtualBox" width="23px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" />
 
 ### Bonjour, je suis [Olivier Vic !](https://github.com/OlivierVic) 👋🏽
 <a href="https://www.linkedin.com/in/olivier-vic-94962a173/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -44,3 +51,11 @@ Bonjour, je m'appelle Olivier Vic. Passionné d'informatique, je suis actuelleme
 <img align="left" alt="Linux" width="23px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 <br>
 <br>
+
+### Tools
+
+<img align="left" alt="QT" width="23px" src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" />
+<img align="left" alt="Visual Studio" width="23px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" />
+<img align="left" alt="VirtualBox" width="23px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" />
+<img align="left" alt="Atom" width="23px" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" />
+<img align="left" alt="VirtualBox" width="23px" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-ar21.svg" />
