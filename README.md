@@ -22,14 +22,14 @@ Hello, my name is Olivier Vic. Computer enthusiast, I am currently in PRE-MSC PR
 <br>
 
 
-### Hi there, I'm [Olivier Vic !](https://github.com/OlivierVic) 👋🏽
+### Bonjour, je suis [Olivier Vic !](https://github.com/OlivierVic) 👋🏽
 <a href="https://www.linkedin.com/in/olivier-vic-94962a173/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <p aling="left"><samp>
-Hello, my name is Olivier Vic. Computer enthusiast, I am currently in PRE-MSC PRO at Epitech Montpellier. I try to improve my skills through all types of projects (including an rpg), I am passionate, hardworking.
+Bonjour, je m'appelle Olivier Vic. Passionné d'informatique, je suis actuellement en PRE-MSC PRO à Epitech Montpellier. J'essaie de me perfectionner à travers tous types de projets (dont un rpg), je suis passionnée, travailleur.
 </samp></p>
 
-### Skills 🧑🏾‍💻
+### Compétences 🧑🏾‍💻
 
 <img align="left" alt="JavaScript" width="23px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" />
 <img align="left" alt="C++" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png" />
